@@ -1,3 +1,5 @@
+ProductiveMe, minimalist by design, engages with and encourages the user to synchronize their calendar with the app, generating a personalized schedule. The goal of the individual schedules is to help users manage their time better and have study breaks to maxmize productivity. Moreover, this application aims to promote collective wellness by offering different features such as catered exercises including meditation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
